@@ -64,7 +64,7 @@ public class LivePushActivity extends AppCompatActivity implements View.OnClickL
             isStart = true;
             rtmpHelper = new RtmpHelper();
             rtmpHelper.setOnConntionListener(this);
-            rtmpHelper.initLivePush("rtmp://119.27.185.134/live/mystream");
+            rtmpHelper.initLivePush("rtmp://192.168.31.215:1935/live/mystream");
 //            rtmpHelper.initLivePush("rtmp://127.0.0.1/live/mystream");
         }
     }
