@@ -84,5 +84,6 @@ public void drawWater() {
         GLES20.glBindBuffer(GLES20.GL_ARRAY_BUFFER, 0);
         }
 
-
 ```
+直播推流
+![140133140-96de9f28-1a03-4f28-b1f3-4cdd0cd4bd47](https://user-images.githubusercontent.com/18340126/140308834-04564f48-ae93-4d69-b1f8-235ea465533c.jpg)
