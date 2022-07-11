@@ -1,3 +1,4 @@
+
 # RtmpLivePushDemo （功能包括相机，录制视频，RTMP推流）
 ## 采用 OpenGL渲染技术对视频流 界面进行渲染 自己封装的界面GLView，帧预览，无法适配普通的SufaceTextured界面
 ```
